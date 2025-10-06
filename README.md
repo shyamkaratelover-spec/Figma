@@ -373,6 +373,7 @@ Figma
 <img width="404" height="828" alt="Screenshot 2025-10-04 141658" src="https://github.com/user-attachments/assets/ab86107e-e38e-48ca-b686-cdd37a245191" />
 <img width="343" height="743" alt="Screenshot 2025-10-04 143538" src="https://github.com/user-attachments/assets/232b851a-90f3-4eac-895e-f4ff49ec7687" />
 <img width="329" height="708" alt="Screenshot 2025-10-04 181921" src="https://github.com/user-attachments/assets/e29c2ed3-3643-4e0c-a66c-37e17593a84f" />
-<img width="329" height="708" alt="Screenshot 2025-10-04 181921" src="https://github.com/user-attachments/assets/5fc42c45-4a10-406f-8240-889fe2711a9c" />
+<img width="365" height="779" alt="Screenshot 2025-10-04 205857" src="https://github.com/user-attachments/assets/ad51f330-c226-45bc-ba43-271304d83967" />
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
